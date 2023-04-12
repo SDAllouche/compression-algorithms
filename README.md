@@ -55,7 +55,7 @@ The decompression algorithm only needs the input compressed text. Indeed, it rec
 
 ## License
 
-[MIT License](LICENSE)
+[MIT License](License)
 
 
 
